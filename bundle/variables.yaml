@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-ci-kevin
+- admin-user: kevinsteve17-admin
+- manager-user: kevinsteve17
